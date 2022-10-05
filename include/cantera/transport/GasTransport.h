@@ -241,7 +241,7 @@ protected:
      * \f]
      * Otherwise the fits are of the form
      * \f[
-     *      \eta(i)/sqrt(k_BT) = \sum_{n = 0}^4 a_n(i) (\log T)^n
+     *      \eta(i)/sqrt(T) = \sum_{n = 0}^4 a_n(i) (\log T)^n
      * \f]
      *
      * @param integrals interpolator for the collision integrals
